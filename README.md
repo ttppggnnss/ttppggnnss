@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+### 🌱 I’m currently learning
+![python](https://img.shields.io/badge/python-blue) ![django](https://img.shields.io/badge/django-brighten) ![vue.js](https://img.shields.io/badge/vue.js-green)
+
+
 <!--
 **ttppggnnss/ttppggnnss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
