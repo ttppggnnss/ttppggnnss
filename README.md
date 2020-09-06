@@ -26,6 +26,7 @@ Thank you
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
 
 ### 🔭 I’m currently working on
+**삼성 청년 SW 아카데미** 에서 프로그래밍을 배우고 프로젝트를 진행하고 있습니다
 
 
 ### 📫 How to reach me
