@@ -1,21 +1,14 @@
 ### Hi there 👋
 My name is Sehoon Kim
-
 I majored in mathematics
-
 and I am learning programming
-
 Thank you
 
 
 안녕하세요
-
 김세훈입니다
-
 저는 수학을 전공했고
-
 프로그래밍을 배우고 있습니다
-
 감사합니다
 
 ### 🌱 I’m currently learning
