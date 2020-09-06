@@ -19,11 +19,13 @@ Thank you
 감사합니다
 
 ### 🌱 I’m currently learning
-![python](https://img.shields.io/badge/Python-9cf?style=plastic&logo=python) ![django](https://img.shields.io/badge/Django-brighten?style=plastic&logo=django) ![vue.js](https://img.shields.io/badge/Vue.js-green?style=plastic&logo=Vue.js)
+![python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white) 
+![django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white) 
+![vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white)
+![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=flat-square&logo=Vuetify&logoColor=white)
 
 ### 📫 How to reach me
-![email](https://img.shields.io/badge/email-kimsae123@naver.com-orange?style=flat-square&logo=Naver&logoColor=white)
-
+[![Naver Badge](https://img.shields.io/badge/Naver-00C300?style=flat-square&logo=NativeScript&logoColor=white&link=mailto:kimsae123@naver.com)](mailto:kimsae123@naver.com)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ttppggnnss@gmail.com)](mailto:ttppggnnss@gmail.com)
 
 
