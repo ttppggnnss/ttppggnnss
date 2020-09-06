@@ -18,7 +18,7 @@ Thank you
 ![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=flat-square&logo=Vuetify&logoColor=white)
 
 ### 📫 How to reach me
-[![Naver Badge](https://img.shields.io/badge/Naver-00C300?style=flat-square&logo=NativeScript&logoColor=white&link=mailto:kimsae123@naver.com)](mailto:kimsae123@naver.com)
+[![Naver Badge](https://img.shields.io/badge/Naver_mail-00C300?style=flat-square&logo=NativeScript&logoColor=white&link=mailto:kimsae123@naver.com)](mailto:kimsae123@naver.com)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ttppggnnss@gmail.com)](mailto:ttppggnnss@gmail.com)
 
 
