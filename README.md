@@ -12,8 +12,11 @@ Thank you
 감사합니다
 
 ### 🌱 I’m currently learning
-![python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white) 
-![django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white) 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white) 
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C) 
+
+
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white) 
 ![vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white)
 ![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=flat-square&logo=Vuetify&logoColor=white)
 
