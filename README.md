@@ -19,7 +19,7 @@ Thank you
 감사합니다
 
 ### 🌱 I’m currently learning
-![python](https://img.shields.io/badge/python-blue?style=plastic&logo=python) ![django](https://img.shields.io/badge/django-brighten?style=plastic&logo=django) ![vue.js](https://img.shields.io/badge/vue.js-green?style=plastic&logo=vue)
+![python](https://img.shields.io/badge/Python-9cf?style=plastic&logo=python) ![django](https://img.shields.io/badge/Django-brighten?style=plastic&logo=django) ![vue.js](https://img.shields.io/badge/Vue.js-green?style=plastic&logo=Vue.js)
 
 ### 📫 How to reach me
 ![email](https://img.shields.io/badge/email-kimsae123@naver.com-orange?style=plastic)
