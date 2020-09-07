@@ -28,7 +28,9 @@ Thank you
 ### 🔭 I’m currently working on
 [**삼성 청년 SW 아카데미**](https://www.ssafy.com/ksp/jsp/swp/swpMain.jsp)에서 프로그래밍을 배우고 프로젝트를 진행하고 있습니다 (2020.01 ~ )  
 **Project**  
-1. [HoneyCombo](https://github.com/ttppggnnss/HoneyCombo)
+1. [BI Films](https://github.com/ttppggnnss/BIFilms)
+2. [HoneyCombo](https://github.com/ttppggnnss/HoneyCombo)
+
 
 ### 📫 How to reach me
 [![Naver Badge](https://img.shields.io/badge/Naver_mail-00C300?style=flat-square&logo=NativeScript&logoColor=white&link=mailto:kimsae123@naver.com)](mailto:kimsae123@naver.com)
