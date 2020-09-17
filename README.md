@@ -25,6 +25,7 @@ Thank you
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black)
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira&logoColor=white)
 
 ### 🔭 I’m currently working on
 [**삼성 청년 SW 아카데미**](https://www.ssafy.com/ksp/jsp/swp/swpMain.jsp)에서 프로그래밍을 배우고 프로젝트를 진행하고 있습니다 (2020.01 ~ )  
