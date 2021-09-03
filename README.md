@@ -28,7 +28,7 @@ Thank you
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira&logoColor=white)
 
 ### 🔭 I’m currently working on
-[**삼성 청년 SW 아카데미**](https://www.ssafy.com/ksp/jsp/swp/swpMain.jsp)에서 프로그래밍을 배우고 프로젝트를 진행하고 있습니다 (2020.01 ~ )  
+[**삼성 청년 SW 아카데미**](https://www.ssafy.com/ksp/jsp/swp/swpMain.jsp)에서 프로그래밍을 배우고 프로젝트를 진행하였습니다 (2020.01 ~ 2020.11)  
 **Project**  
 1. [BI Films](https://github.com/ttppggnnss/BIFilms)
 2. [HoneyCombo](https://github.com/ttppggnnss/HoneyCombo)
