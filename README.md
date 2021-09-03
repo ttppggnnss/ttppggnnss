@@ -2,13 +2,15 @@
 My name is Sehoon Kim  
 I majored in mathematics  
 and I am learning programming  
+I am Junior Developer   
 Thank you  
 
 
-안녕하세요  
+### 안녕하세요 👋
 김세훈입니다  
 저는 수학을 전공했고  
 프로그래밍을 배우고 있습니다  
+주니어 개발자입니다  
 감사합니다  
 
 ### 🌱 I’m currently learning
@@ -21,11 +23,9 @@ Thank you
 
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white) 
 ![vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white)
-![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=flat-square&logo=Vuetify&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black)
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira&logoColor=white)
 
 ### 🔭 I’m currently working on
 [**삼성 청년 SW 아카데미**](https://www.ssafy.com/ksp/jsp/swp/swpMain.jsp)에서 프로그래밍을 배우고 프로젝트를 진행하였습니다 (2020.01 ~ 2020.11)  
