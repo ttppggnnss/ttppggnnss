@@ -57,5 +57,5 @@ Here are some ideas to get you started:
 
 This for test
 
-(test1)[new-beta2-m.pay.naver.com]
-(test2)[new-beta2-m.pay.naver.com/settings/list]
+[test1](new-beta2-m.pay.naver.com)
+[test2](new-beta2-m.pay.naver.com/settings/list)
