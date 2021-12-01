@@ -61,4 +61,6 @@ Here are some ideas to get you started:
 
 [alpha](https://new-alpha-m.pay.naver.com)
 
+[beta1](https://new-beta-m.pay.naver.com)
+
 [beta2](https://new-beta2-m.pay.naver.com)
