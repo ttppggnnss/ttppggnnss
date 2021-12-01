@@ -57,8 +57,6 @@ Here are some ideas to get you started:
 
 ### This for test
 
-[test1](https://new-alpha-m.pay.naver.com)
+[alpha](https://new-alpha-m.pay.naver.com)
 
-[test2](https://new-alpha-m.pay.naver.com/settings/list)
-
-[test3](https://new-alpha-m.pay.naver.com/auth/change?closeType=closeTypeBack&rurl=%2Fsettings%2Flist&sessionKey=f89ccdf5d63196e7a51e2d515485e8bc8532b9cb&surl=%2Fsettings%2Flist&type=hideBiometricsBtn)
+[beta2](https://new-beta2-m.pay.naver.com)
