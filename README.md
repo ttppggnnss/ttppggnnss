@@ -1,14 +1,14 @@
 ### Hi there 👋
-My name is Sehoon Kim  
-I majored in mathematics
-I am Junior Front-end Developer
+My name is Sehoon Kim<br />
+I majored in mathematics<br />
+I am Junior Front-end Developer<br />
 Thank you 🙇‍♂️
 
 
 ### 안녕하세요 👋
-김세훈입니다
-수학을 전공했습니다
-주니어 프론트엔드 개발자입니다
+김세훈입니다<br />
+수학을 전공했습니다<br />
+주니어 프론트엔드 개발자입니다<br />
 감사합니다 🙇‍♂️
 
 ### 🔭 I’m currently working on
