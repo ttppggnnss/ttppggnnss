@@ -13,6 +13,7 @@ Thank you 🙇‍♂️
 
 ### 🔭 I’m currently working on
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black) 
+![TypeScript](https://img.shields.io/badge/Typescript-2F74C0?style=flat-square&logo=Typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black)
 
 ### 🌱 I’m currently learning
