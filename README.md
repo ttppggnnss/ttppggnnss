@@ -1,17 +1,19 @@
 ### Hi there 👋
 My name is Sehoon Kim  
-I majored in mathematics  
-and I am learning programming  
-I am Junior Developer   
-Thank you  
+I majored in mathematics
+I am Junior Front-end Developer
+Thank you 🙇‍♂️
 
 
 ### 안녕하세요 👋
-김세훈입니다  
-저는 수학을 전공했고  
-프로그래밍을 배우고 있습니다  
-주니어 개발자입니다  
-감사합니다  
+김세훈입니다
+수학을 전공했습니다
+주니어 프론트엔드 개발자입니다
+감사합니다 🙇‍♂️
+
+### 🔭 I’m currently working on
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black) 
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black)
 
 ### 🌱 I’m currently learning
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white) 
@@ -19,16 +21,16 @@ Thank you
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black) 
 
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white) 
 ![vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black)
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
 
 ### 🔭 I’m currently working on
 [**삼성 청년 SW 아카데미**](https://www.ssafy.com/ksp/jsp/swp/swpMain.jsp)에서 프로그래밍을 배우고 프로젝트를 진행하였습니다 (2020.01 ~ 2020.11)  
+[**네이버파이낸셜**](https://www.naverfincorp.com/)에서 프론트엔드 개발을 하고있습니다 (2021.03 ~ )  
+
 **Project**  
 1. [BI Films](https://github.com/ttppggnnss/BIFilms)
 2. [HoneyCombo](https://github.com/ttppggnnss/HoneyCombo)
@@ -54,13 +56,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-### This for test
-
-[real](https://new-m.pay.naver.com)
-
-[alpha](https://new-alpha-m.pay.naver.com)
-
-[beta1](https://new-beta-m.pay.naver.com)
-
-[beta2](https://new-beta2-m.pay.naver.com)
